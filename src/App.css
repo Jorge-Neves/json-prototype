@@ -28,6 +28,89 @@
   color: #61dafb;
 }
 
+.Input-spacing {
+  margin: 2rem;
+}
+
+body {
+  background-color: rgb(162, 179, 194);
+  margin: 0;
+}
+
+.container {
+  max-width: 900px;
+  margin: 1rem 2rem;
+}
+
+.card-grid {
+  display: grid;
+  align-items: center;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin: 1rem;
+  border-radius: 0.25rem;
+  background-color: rgb(234, 241, 248);
+  box-shadow: 0 0 5px 2px rgba(152, 159, 255, 0.3);
+  transform-style: preserve-3d;
+  transition: 300ms;
+  transform: perspective(700px) rotateY(var(--rotate-y, 0))
+    translateY(var(--translate-y, 0));
+}
+
+.card.flip {
+  --rotate-y: 180deg;
+}
+
+.card .front {
+  left: 0;
+}
+
+.card .back {
+  transform: rotateY(180deg);
+}
+
+.card .front,
+.card .back {
+  position: absolute;
+  padding: 1rem;
+  backface-visibility: hidden;
+}
+
+.card:hover {
+  --translate-y: -2px;
+  box-shadow: 0 0 5px 2px rgba(152, 159, 255, 0.6);
+}
+
+.flashcard-options {
+  margin-top: 0.5rem;
+}
+
+.flashcard-option {
+  margin-top: 0.25rem;
+  color: #555;
+  font-size: 0.75rem;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem;
+}
+
+.make-json-window {
+  width: 200px;
+  height: 200px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
