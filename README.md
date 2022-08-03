@@ -1,3 +1,11 @@
+## Technologies
+
+Typescript
+React.js
+Styled components
+
+
+
 ## Credits
 
 [react-windows-xp](https://www.npmjs.com/package/react-windows-xp)
