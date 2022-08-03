@@ -1,8 +1,8 @@
 ## Technologies
 
-Typescript
-React.js
-Styled components
+<p>Typescript</p>
+<p>React.js</p>
+<p>Styled components</p>
 
 
 
