@@ -15,3 +15,5 @@
 [css-tricks - draggable elements](https://css-tricks.com/books/greatest-css-tricks/draggable-elements/)
 
 [xp.css](https://botoxparty.github.io/XP.css/)
+
+[xp.css npm](https://www.npmjs.com/package/xp.css)
