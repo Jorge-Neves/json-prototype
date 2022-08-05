@@ -2,6 +2,11 @@
 
 A POC for a bigger project flashcard project
 
+
+## How to use
+
+(WIP)
+
 ## How to install
 
 ```
