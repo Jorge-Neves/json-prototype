@@ -4,6 +4,8 @@
 <p>React.js</p>
 <p>Styled components</p>
 
+## Demo 
+ [demo](https://boisterous-genie-1d07c5.netlify.app/)
 
 
 ## Credits
