@@ -6,6 +6,7 @@ A POC for a bigger project flashcard project
 
 <p>Typescript</p>
 <p>React.js</p>
+<p>React-hook-forms</p>
 <p>Styled components</p>
 
 ## Demo 
