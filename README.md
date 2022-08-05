@@ -2,12 +2,24 @@
 
 A POC for a bigger project flashcard project
 
+## How to install
+
+```
+ $ npm install
+
+```
+
+```
+ $ npm start
+
+```
+
 ## Technologies
 
-<p>Typescript</p>
-<p>React.js</p>
-<p>React-hook-forms</p>
-<p>Styled components</p>
+[Typescript](https://www.typescriptlang.org/)
+[React.js](https://reactjs.org/)
+[React-hook-forms](https://react-hook-form.com/)
+[Styled components](https://www.styled-components.com/)
 
 ## Demo 
  [demo](https://boisterous-genie-1d07c5.netlify.app/)
