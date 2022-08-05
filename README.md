@@ -1,3 +1,7 @@
+## Introduction 
+
+A POC for a bigger project flashcard project
+
 ## Technologies
 
 <p>Typescript</p>
