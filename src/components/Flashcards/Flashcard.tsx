@@ -23,7 +23,7 @@ const Flashcard: FC<{ flashcard: any }> = (props) => {
     setFlip(!flip);
     setTimeout(() => {
       setFlip(false);
-    }, 5000);
+    }, 60000);
   };
   let userInput: ReturnType<typeof setTimeout> | undefined;
   const cardFlipHandler = () => {
