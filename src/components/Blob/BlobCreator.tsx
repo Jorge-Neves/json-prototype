@@ -282,13 +282,13 @@ const BlobCreator = () => {
                 {'{'}
                 <br />
                 <JSONmocKeys>
-                  <br /> "id" : "{flashcard.id}" , <br />
+                  <br /> "id" : "{flashcard?.id}" , <br />
                   <br /> "Question" : "{flashcard.Question}" , <br />
                   <br /> "Answer" : "{flashcard.Answer}", <br />
-                  <br /> "TypeOfQuestion" : "{flashcard.TypeOfQuestion}" <br />
-                  <br /> "Source" : "{flashcard.Source}", <br />
-                  <br /> "Chapter" : "{flashcard.Chapter}", <br />
-                  <br /> "Bonus" : "{flashcard.Bonus}", <br />
+                  <br /> "TypeOfQuestion" : "{flashcard?.TypeOfQuestion}" <br />
+                  <br /> "Source" : "{flashcard?.Source}", <br />
+                  <br /> "Chapter" : "{flashcard?.Chapter}", <br />
+                  <br /> "Bonus" : "{flashcard?.Bonus}", <br />
                   <br />
                 </JSONmocKeys>
                 {'},'}

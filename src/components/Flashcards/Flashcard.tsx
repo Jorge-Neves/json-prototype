@@ -43,10 +43,15 @@ const Flashcard: FC<{ flashcard: any }> = (props) => {
     >
       <div className="front" ref={frontEl}>
         {Question} {props.flashcard.question}
+        <br />
+        <br />
+        <p className="label">{props.flashcard.id}</p>
       </div>
       <div className="back" ref={backEl}>
         <p>
           {Answer} {props.flashcard.answer}
+          <br />
+          <p className="label">{props.flashcard.id}</p>
         </p>
       </div>
     </div>
