@@ -2,6 +2,8 @@
 
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Pedro%20Mateus%20Rosa&fontSize=70&fontColor=FFFFFF&color=0:8871e5,100:b678c4&stroke=b678c4)
 
+In the past, I crafted unique cocktails behind the bar, and now I bring that same creativity to my source code.
+
 ### Skills
 
 `React` `JavaScript` `MongoDB` `Express.js` `Node.js` `Python` `Next.js`
