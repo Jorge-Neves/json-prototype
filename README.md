@@ -1,6 +1,6 @@
 ## Venom <a id="venom">
 
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Pedro%20Rosa.&fontSize=70&fontColor=FFFFFF&color=0:8871e5,100:b678c4&stroke=b678c4)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Pedro%20Mateus%20Rosa&fontSize=70&fontColor=FFFFFF&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Pedro%20Rosa.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
