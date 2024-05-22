@@ -6,6 +6,8 @@
 
 `React` `JavaScript` `MongoDB` `Express.js` `Node.js` `Python` `Next.js`
 
+### Metrics
+
 ![mateusrose's Stats](https://github-readme-stats.vercel.app/api?username=mateusrose&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![mateusrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrose&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
