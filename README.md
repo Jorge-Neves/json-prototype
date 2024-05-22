@@ -3,7 +3,7 @@
 In the past, I crafted unique cocktails behind the bar, and now I bring that same creativity to my source code.
 
 ### Let's Connect
-Email: pedrompmrosa@gmail.com
+Email: ![pedrompmrosa@gmail.com](mailto:pedrompmrosa@gmail.com)
 Portfolio: ![Portfolio](https://mateusrosecode.netlify.app/)
 LinkedIn: ![Mateus Rosa](https://www.linkedin.com/in/mateusrosecode/)
 
