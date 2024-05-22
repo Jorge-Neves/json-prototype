@@ -2,12 +2,13 @@
 
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Pedro%20Mateus%20Rosa&fontSize=70&fontColor=FFFFFF&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Pedro%20Rosa.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+### Skills
 
-![soft](https://capsule-render.vercel.app/api?type=soft&color=0D1117&text=Pedro%20Rosa&fontSize=40&fontColor=FFFFFF)
+`React` `JavaScript` `MongoDB` `Express.js` `Node.js` `Python` `Next.js`
 
 ![mateusrose's Stats](https://github-readme-stats.vercel.app/api?username=mateusrose&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![mateusrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrose&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
 
 
 ## Introduction 
