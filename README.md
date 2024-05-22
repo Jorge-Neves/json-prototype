@@ -1,8 +1,11 @@
-## Venom <a id="venom">
-
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Pedro%20Mateus%20Rosa&fontSize=70&fontColor=FFFFFF&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 In the past, I crafted unique cocktails behind the bar, and now I bring that same creativity to my source code.
+
+### Let's Connect
+Email: pedrompmrosa@gmail.com
+Portfolio: ![Portfolio](https://mateusrosecode.netlify.app/)
+LinkedIn: ![Mateus Rosa](https://www.linkedin.com/in/mateusrosecode/)
 
 ### Skills
 
