@@ -6,6 +6,8 @@
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=0D1117&text=Pedro%20Rosa&fontSize=40&fontColor=FFFFFF)
 
+![mateusrose's Stats](https://github-readme-stats.vercel.app/api?username=mateusrose&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![mateusrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrose&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 
 ## Introduction 
