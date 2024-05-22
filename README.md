@@ -1,3 +1,7 @@
+![soft](https://capsule-render.vercel.app/api?type=soft&color=0D1117&text=Pedro%20Rosa&fontSize=40&fontColor=FFFFFF)
+
+
+
 ## Introduction 
 
 A POC for a bigger project flashcard project
